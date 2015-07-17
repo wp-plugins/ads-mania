@@ -4,7 +4,7 @@ Requires at least: 3.5.0
 Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
-Stable tag: 1.3
+Stable tag: 1.4
 
 A plugin for managing your ads easily.
 
@@ -13,6 +13,7 @@ A plugin for managing your ads easily.
 ADSMANIA is an easy to use advertisements plugin which can help you with creative ways for your ads like arrangement of your ads
 inside your articles, setting a hidden link which forces the users to visit a link before completing browsing, forcing users to
 visit a specific a link to browse an important content of your article, and more of features you could find.
+Feel free to check the manual: https://ps.w.org/ads-mania/assets/doc.pdf
 
 == Installation ==
 
@@ -24,21 +25,14 @@ e.g.
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. you could read the manual file to manage your ads
 
-
-== Frequently Asked Questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
 == DEMO ==
 
-you could test this plugin via
+you could test this plugin:
 http://devdose.com/WP/demo/
+
+== Manual ==
+
+https://ps.w.org/ads-mania/assets/doc.pdf
 
 == Screenshots ==
 1. How could your ads appear ?
