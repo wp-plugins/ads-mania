@@ -4,6 +4,7 @@ Requires at least: 3.5.0
 Tested up to: 4.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Stable tag: 1.3
 
 A plugin for managing your ads easily.
 
@@ -38,6 +39,14 @@ Answer to foo bar dilemma.
 
 you could test this plugin via
 http://devdose.com/WP/demo/
+
+== Screenshots ==
+1. How could your ads appear ?
+2. What could your ads be ? (not just a banner !)
+3. Full intro ads
+4. Your ads can be embedded automatically between the article paragraphs
+5. You can hide an important content until the user visit a specific link
+6. Hide an important content away from the unregistered users
 
 == Changelog ==
 Not yet.

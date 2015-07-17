@@ -1,12 +1,12 @@
 <?php
 /**
- * @since             1.0.0
+ * @since             1.3
  * @package           ADSMania
  *
  * @wordpress-plugin
  * Plugin Name:       ADS Mania
  * Description:       A plugin for managing the advertisements.
- * Version:           1.0.0
+ * Version:           1.3
  * Author:            DevDose
  * Author URI:        http://facebook.com/bakrianoo
  * License:           GPL-2.0+
